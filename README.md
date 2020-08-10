@@ -1,5 +1,5 @@
 # note-creator
-Note-creator is a console program that operates with notes, could possible be upgraded
+__Note-creator__ is a console program that operates with notes, could possible be upgraded
 
 ## Requirements
 Git and Node.js installed
@@ -10,3 +10,6 @@ Git and Node.js installed
   * npm i enquirer
   * npm i chalk
   * node app.js
+
+## Thanks to
+Creators of [Chalk](https://github.com/chalk/chalk "Chalk library") and [Enquirer](https://github.com/enquirer/enquirer "Enquirer library") libraries
