@@ -1,5 +1,5 @@
 # note-creator
-__Note-creator__ is a console program that operates with notes, could possible be upgraded
+__Note-creator__ is a console program which operates with notes, could possible be upgraded
 
 ## Requirements
 Git and Node.js installed
