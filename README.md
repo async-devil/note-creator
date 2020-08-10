@@ -11,5 +11,8 @@ Git and Node.js installed
   * npm i chalk
   * node app.js
 
+## Using
+Data that you create contains in notes.json
+
 ## Thanks to
 Creators of [Chalk](https://github.com/chalk/chalk "Chalk library") and [Enquirer](https://github.com/enquirer/enquirer "Enquirer library") libraries
